@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi guys! 👋
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 ```
                              \\\\\\\
                             \\\\\\\\\\\\
